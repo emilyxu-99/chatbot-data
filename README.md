@@ -1,5 +1,5 @@
 # chatbot-data
-Natural language processing
+Help improve chatbot understanding of slang by identifying user languages.
 
 See the full projects at
 
